@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5f1f1c76.css",
+    "main.js": "./static/js/main.32755fba.js",
+    "static/js/787.c4e7f8f9.chunk.js": "./static/js/787.c4e7f8f9.chunk.js",
+    "static/media/mindsparkLogo2.png": "./static/media/mindsparkLogo2.659cfbc89423925d11fb.png",
+    "static/media/mindspark23.png": "./static/media/mindspark23.ed0a97a899fec6362c69.png",
+    "static/media/thankyou.jpg": "./static/media/thankyou.5e81beaedd336cbef489.jpg",
+    "index.html": "./index.html",
+    "main.5f1f1c76.css.map": "./static/css/main.5f1f1c76.css.map",
+    "main.32755fba.js.map": "./static/js/main.32755fba.js.map",
+    "787.c4e7f8f9.chunk.js.map": "./static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f1f1c76.css",
+    "static/js/main.32755fba.js"
+  ]
+}
